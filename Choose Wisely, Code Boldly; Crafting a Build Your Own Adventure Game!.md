@@ -1,7 +1,7 @@
 
 {Insert Intro Vid Here}
 
-Whether you have programmed your whole life or this is your very first project, there is plenty of fun to be had with creating a Choose Your Own Adventure Game (CYOA)! This build incorporates music, interactive elements, and the ability to control all stylistic features! The most important part is to use your imagination since there is no limit to what YOU can create! No matter what difficulty you choose, you will have a playable game fit to share with family, and friends, and publish! You will gain invaluable knowledge in Python or Java which you can use to create more games or implement in other projects!
+Whether you have programmed your whole life or this is your very first project, there is plenty of fun to be had with creating a Choose Your Own Adventure Game (CYOA)! This build incorporates music, interactive elements, and the ability to control all stylistic features! The most important part is to use your imagination since there is no limit to what YOU can create! No matter what difficulty you choose, you will have a playable game fit to share with family, and friends, and publish! You will gain invaluable knowledge in Python which you can use to create more games or implement in other projects!
 
 ## What Will We Use?
 
